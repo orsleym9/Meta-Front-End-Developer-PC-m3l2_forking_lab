@@ -125,6 +125,7 @@ Read the instructions of this file in the README.md
   - Md Arfatul_Canada_Version Control
 
   - [Moayad] - Meta Front-end development Professional Certificate
+  - [Marissa] - Meta Front-End Development
 
 - ### **N**
 
